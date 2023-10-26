@@ -45,4 +45,3 @@ For any queries or feedback, please reach out to [lital.h.ben.baruch@gmail.com](
 Enjoy exploring data science with Scikit-Learn via Google Colab!
 ```
 
-Replace placeholders like `your-username` and `your-email@example.com` with your actual details. Adjust any other content as per your preferences.
