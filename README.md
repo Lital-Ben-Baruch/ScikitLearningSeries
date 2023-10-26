@@ -40,8 +40,5 @@ Your contributions are always welcome! Please feel free to submit a pull request
 ## Contact
 For any queries or feedback, please reach out to [lital.h.ben.baruch@gmail.com](mailto:lital.h.ben.baruch@gmail.com).
 
----
 
 Enjoy exploring data science with Scikit-Learn via Google Colab!
-```
-
